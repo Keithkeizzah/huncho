@@ -64,8 +64,12 @@ star repo if you like this bot✨
 -if any problem you can message me https://wa.me/message/CJGVIXZNWMKKE1
 
 ##
--𝐣𝐨𝐢𝐧 𝐦𝐲 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐠𝐫𝐨𝐮𝐩
-https://chat.whatsapp.com/JmELzjCWxp55Cdu8dw3vFt
+<p align="center" >
+<a href="https://chat.whatsapp.com/JmELzjCWxp55Cdu8dw3vFt"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
+</a>
+</p>
+<br>
+
 ##
 𝐊𝐄𝐈𝐓𝐇-𝐌𝐃
 
