@@ -52,13 +52,15 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
 - [Sam Pamday](https://github.com/Sampandey001) 
 
 
-The 𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿 is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+The 𝗞𝗘𝗜𝗧𝗛 𝗠𝗗 is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
 
 <h2 align="center">  NOTICE
 </h2>
    
 ## 
-𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿
+star repo if you like this bot✨
+-if any problem you can message me https://wa.me/message/CJGVIXZNWMKKE1
+𝙆𝗘𝗜𝗧𝗛 𝙈𝘿
 
 
