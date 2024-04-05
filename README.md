@@ -60,7 +60,10 @@ The 𝗞𝗘𝗜𝗧𝗛 𝗠𝗗 is made available under the [GPL-3 license](ht
    
 ## 
 star repo if you like this bot✨
+##
 -if any problem you can message me https://wa.me/message/CJGVIXZNWMKKE1
-𝙆𝗘𝗜𝗧𝗛 𝙈𝘿
+
+##
+𝗞𝗘𝗜𝗧𝗛-𝗠𝗗
 
 
