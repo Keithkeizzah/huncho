@@ -1,7 +1,7 @@
 {
-  "name": "Ibrahim-md@1.2.8",
-  "description": "I am Ibrahim-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://www.youtube.com/@ibrahimmdgpt",
-  "logo": "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg",
+  "name": "keith-md@1.2.8",
+  "description": "I am Keith-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://www.youtube.com/@ibrahimmdgpt",
+  "logo": "https://telegra.ph/file/29ff2e030b401e489d2a8.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𝗠𝗥 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
+      "value": "MR KEITH",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗪𝗔𝗕𝗢𝗧"
+      "value": "KEITH-MD"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg"
+      "value": "https://telegra.ph/file/29ff2e030b401e489d2a8.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "ce99ce13-91a8-4fce-a852-d3edcc2337cb",
+      "value": "",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254710772666"
+      "value": "254796299159"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "MR KEITH",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "MR KEITH",
       "required": false 
     }
   }, 
