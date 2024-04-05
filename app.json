@@ -128,7 +128,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "MR KEITH",
+      "value": "KEITH BOT",
       "required": false 
     },
     "PACK_AUTHER": {
