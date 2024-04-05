@@ -7,8 +7,8 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="ngoyaibraah@gmail.com"
-global.location="Bungoma,Kenya."
+global.email ="kkeizzah@gmail.com"
+global.location="Migori,Kenya."
 global.mongodb= process.env.MONGODB_URI || ""
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
@@ -16,7 +16,7 @@ global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
 global.github=process.env.GITHUB|| "https://github.com/Keithkeizzah/huncho";
-global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD";
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/JmELzjCWxp55Cdu8dw3vFt";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaaRZUH6WaKjl3Hkwn2j" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/29ff2e030b401e489d2a8.jpg" ; // SET LOGO FOR IMAGE 
 
@@ -64,11 +64,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©MR KEITH💥90✴" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "𝗞𝗘𝗜𝗧𝗛™2024✨" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "MR KEITH",
   packname: process.env.PACK_NAME || "👑",
-  botname : process.env.BOT_NAME  || " 𝗜𝗕𝗥𝗔𝗛𝗜𝗠-ᵐᵈ",
+  botname : process.env.BOT_NAME  || "𝗞𝗘𝗜𝗧𝗛 𝗠𝗗",
   ownername:process.env.OWNER_NAME|| "It'x MR KEITH",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
