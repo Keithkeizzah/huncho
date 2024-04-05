@@ -64,6 +64,11 @@ star repo if you like this bot✨
 -if any problem you can message me https://wa.me/message/CJGVIXZNWMKKE1
 
 ##
-𝗞𝗘𝗜𝗧𝗛-𝗠𝗗
+-𝐣𝐨𝐢𝐧 𝐦𝐲 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐠𝐫𝐨𝐮𝐩
+https://chat.whatsapp.com/JmELzjCWxp55Cdu8dw3vFt
+##
+𝐊𝐄𝐈𝐓𝐇-𝐌𝐃
+
+
 
 
