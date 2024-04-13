@@ -16,8 +16,8 @@ global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
 global.github=process.env.GITHUB|| "https://github.com/Keithkeizzah/huncho";
-global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/JmELzjCWxp55Cdu8dw3vFt";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaaRZUH6WaKjl3Hkwn2j" ; 
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/KeEYrEX8UDdGD4m4GbdHaA";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/29ff2e030b401e489d2a8.jpg" ; // SET LOGO FOR IMAGE 
 
 
@@ -64,7 +64,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "𝗞𝗘𝗜𝗧𝗛™2024✨" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "™𝗞𝗘𝗜𝗧𝗛°2024✨" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "MR KEITH",
   packname: process.env.PACK_NAME || "👑",
