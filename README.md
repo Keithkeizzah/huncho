@@ -71,6 +71,11 @@ star repo if you like this bot✨
 </p>
 <br>
 
+<a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
 ##
 𝐊𝐄𝐈𝐓𝐇-𝐌𝐃
 
