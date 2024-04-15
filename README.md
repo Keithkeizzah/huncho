@@ -64,6 +64,9 @@ star repo if you like this bot✨
 ##
 -if any problem you can message me https://wa.me/message/CJGVIXZNWMKKE1
 
+
+* [`Keith keizzah`](https://github.com/Keithkeizzah) ***Author, Owner***
+* 
 ##
 <p align="center" >
 <a href="https://chat.whatsapp.com/KeEYrEX8UDdGD4m4GbdHaA"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
