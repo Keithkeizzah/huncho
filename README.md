@@ -17,6 +17,9 @@
                        
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/10cac2ce2fbfcdcd0b6e8.jpg" alt="01" border="0" /></a>                     
  
+  <a aria-label="Keith-md is free to use" href="https://youtube.com/@keithkeizzah" target="_blank">
+    <img alt="Keithkeizzah" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  </a>
   
 ## THE THREE STEPS TO MAKE THE BOT
 	
