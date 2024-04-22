@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/29ff2e030b401e489d2a8.jpg"
+      "value": "https://telegra.ph/file/2911075742ce3363af8a1.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2547"
+      "value": "254748387615"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
