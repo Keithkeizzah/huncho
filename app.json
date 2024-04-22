@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "MR KEITH",
+      "value": "༒𝐌𝐀𝐒𝐓𝐄𝐑 𝐊𝐄𝐈𝐓𝐇༒",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "KEITH-MD"
+      "value": "༄𝐊𝐄𝐈𝐓𝐇-𝐌𝐃༆"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254796299159"
+      "value": "2547"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
