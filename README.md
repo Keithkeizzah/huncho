@@ -52,7 +52,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
 𝗦𝗖𝗔𝗡 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨𝗥 𝗡𝗨𝗠𝗕𝗘𝗥
         👇👇👇👇
 	
- ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://keith-session-e6b11c6f97a1.herokuapp.com//)***
+ ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://alpha-bot-session-36fa234e8d19.herokuapp.com/pair)***
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
