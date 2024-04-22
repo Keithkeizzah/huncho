@@ -60,7 +60,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
 
 
     
-   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://keith-session-e6b11c6f97a1.herokuapp.com//)                 
+   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://black-panther-scanner-app-a00dbf372b79.herokuapp.com/qr)                 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
                        		 
