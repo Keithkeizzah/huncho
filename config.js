@@ -30,7 +30,7 @@ global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]
 
 
 //========================= [ BOT SETTINGS ] =========================\\
-global.style = process.env.STYLE   || '',  // put '1' to "5" here to check bot styles
+global.style = process.env.STYLE   || '2',  // put '1' to "5" here to check bot styles
 global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not responed
 global.gdbye = process.env.GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable WELCOME 
@@ -64,7 +64,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || ☠☠ⓟ๏ᗯｅŘέＤ Ｂㄚ ❦ᴋᴇɪᴛʜ ᴛᴇᴄʜ☠" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || ☠☠𝘱𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘺 ✔𝘒𝘌𝘐𝘛𝘏𝘒𝘌𝘐𝘡𝘡𝘈𝘏 2024☆" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "MR KEITH",
   packname: process.env.PACK_NAME || "👑",
